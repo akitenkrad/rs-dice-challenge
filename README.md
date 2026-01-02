@@ -64,4 +64,4 @@ number of trials: 000000000000006 / ETA: 00:06 / Prob: 9.64077503%
 
 ## License
 
-Apache-2.0
+MIT
